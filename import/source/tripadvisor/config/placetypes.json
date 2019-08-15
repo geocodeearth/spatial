@@ -1,0 +1,378 @@
+{
+  "9999": {
+    "name": "World",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10000": {
+    "name": "Continent",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10001": {
+    "name": "Country",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10002": {
+    "name": "Nation",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10003": {
+    "name": "State",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10004": {
+    "name": "City",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10005": {
+    "name": "County",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10006": {
+    "name": "Borough",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10007": {
+    "name": "Neighborhood",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10008": {
+    "name": "Metro",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10009": {
+    "name": "Region",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10010": {
+    "name": "Island",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10011": {
+    "name": "Island Group",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10012": {
+    "name": "Territory",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10013": {
+    "name": "District",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10014": {
+    "name": "Prefecture",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10015": {
+    "name": "Municipality",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10016": {
+    "name": "Republic",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10017": {
+    "name": "Community",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10018": {
+    "name": "Kibbutz",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10019": {
+    "name": "Department",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10020": {
+    "name": "Province",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10021": {
+    "name": "Attraction",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10022": {
+    "name": "Eatery",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10023": {
+    "name": "Accomodation",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10024": {
+    "name": "Tour",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10025": {
+    "name": "Parish",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10026": {
+    "name": "Canton",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10027": {
+    "name": "NationalPark",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10028": {
+    "name": "Geographic Location",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10029": {
+    "name": "Resource",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10030": {
+    "name": "Entertainment",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10031": {
+    "name": "Shopping",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10032": {
+    "name": "Narrow Virtual Region",
+    "is_geographic": true,
+    "is_virtual": true,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10033": {
+    "name": "Broad Virtual Region",
+    "is_geographic": true,
+    "is_virtual": true,
+    "is_broad": true,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10034": {
+    "name": "Narrow Virtual Region Leaf",
+    "is_geographic": true,
+    "is_virtual": true,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10036": {
+    "name": "Neighborhood Tier 1",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10037": {
+    "name": "Neighborhood Tier 2",
+    "is_geographic": true,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": true,
+    "could_have_address": false
+  },
+  "10038": {
+    "name": "Airport",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10039": {
+    "name": "Area",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10040": {
+    "name": "Theme Park",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10041": {
+    "name": "Metro Station",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": true
+  },
+  "10042": {
+    "name": "Airline",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10043": {
+    "name": "Activity",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10044": {
+    "name": "Ship",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10045": {
+    "name": "Car Rental Office",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  },
+  "10046": {
+    "name": "Cruise Line",
+    "is_geographic": false,
+    "is_virtual": false,
+    "is_broad": false,
+    "is_autobroaden_type": false,
+    "could_have_address": false
+  }
+}
